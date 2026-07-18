@@ -1,7 +1,7 @@
 # 📱 PhotoNotes
 
-PhotoNotes is an iOS app built with **SwiftUI** that lets users create and manage notes with optional photo attachments.  
-Each note is stored in **Firebase Realtime Database**, and images are uploaded to **Firebase Storage**.
+PhotoNotes is an iOS app using SWIFT that lets users create and manage notes with optional photo attachments.  
+Each note is stored in Firebase Realtime Database, and images are uploaded to Firebase Storage.
 
 ---
 
@@ -21,7 +21,7 @@ Each note is stored in **Firebase Realtime Database**, and images are uploaded t
 
 ---
 
-## 🚀 Getting Started
+##vRUN THE PROGRAM
 1. Clone the repository  
 2. Open `PhotoNotes.xcodeproj` in Xcode  
 3. Ensure `GoogleService-Info.plist` is included in the target  
@@ -29,13 +29,11 @@ Each note is stored in **Firebase Realtime Database**, and images are uploaded t
 
 ---
 
-## 📦 Requirements
+## 📦 RUNS ON
 - Xcode 15 or newer  
 - iOS 17 SDK  
 - Firebase iOS SDK (added via Swift Package Manager)
 
 ---
 
-## 🧾 Author
-**Kenneth Plumstead**  
-Mobile Web Development — triOS College
+
